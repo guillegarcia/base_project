@@ -1,6 +1,10 @@
 # base_project
 
-Base project with de basic configuration for a new flutter app
+Base project with de basic configuration for a new flutter app. Including:
+
+ - Internationalization (with intl)
+ - screen routes
+
 
 ## Getting Started
 
