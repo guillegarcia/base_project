@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
-import 'screens/game_screen.dart';
-import 'screens/groups_screen.dart';
+import 'screens/home_screen.dart';
+import 'screens/sample_screen.dart';
 
 void main() {
   runApp(MyApp());
